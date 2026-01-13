@@ -268,15 +268,15 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
 Jika library ini berguna untuk kamu:
 - ⭐ Star repository ini
-- 🐛 Laporkan bug di [Issues](https://github.com/yourusername/indonesian-validators/issues)
+- 🐛 Laporkan bug di [Issues](https://github.com/est57/indonesian-validators/issues)
 - 💡 Usulkan fitur baru
-- ☕ [Belikan saya kopi](https://trakteer.id/yourusername)
+- ☕ [Belikan saya kopi](https://trakteer.id/est57)
 
 ## 🔗 Links
 
 - [NPM Package](https://www.npmjs.com/package/indonesian-validators)
-- [GitHub Repository](https://github.com/yourusername/indonesian-validators)
-- [Documentation](https://github.com/yourusername/indonesian-validators#readme)
+- [GitHub Repository](https://github.com/est57/indonesian-validators)
+- [Documentation](https://github.com/est57/indonesian-validators#readme)
 
 ---
 
